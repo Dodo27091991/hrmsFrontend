@@ -1,0 +1,29 @@
+.card-style{
+    background-color: rgb(129, 166, 154);
+    border: 1px solid;
+    border-radius: 5%;
+  }
+
+.container-color{
+    background-color: rgb(249, 250, 251);
+    border: 1px solid;
+    border-radius: 2%;
+    
+}
+
+.app-style{
+    background-color: rgb(140, 157, 162);
+}
+
+.cardstyle{
+    width: 190px;
+    height: 50px;
+    border: 1px solid;
+}
+.cardBody{
+    width: 170px;
+    height:120px;
+    border: 1px solid;
+    border-radius: 5%;
+    text-align: center;
+}
